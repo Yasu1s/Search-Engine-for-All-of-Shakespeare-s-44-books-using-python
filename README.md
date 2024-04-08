@@ -49,7 +49,3 @@ This Python script implements a search engine for all of Shakespeare's 44 books.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to better fit your project structure and details.
